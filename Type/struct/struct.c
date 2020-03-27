@@ -2,7 +2,8 @@
 
 struct TS
 {
-	
+	int len;	
+	int array[];
 };
 int main()
 {
